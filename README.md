@@ -1,6 +1,6 @@
 # 🔥 ★ ★*RiDER* ★ 𝘔𝘜𝘚𝘐𝘊 ★ ♥️
 
-<h4 align="center">𝘋𝘦𝘷𝘪𝘭 𝘏𝘢𝘤𝘬𝘦𝘳 𝘔𝘶𝘴𝘪𝘤 𝘪𝘴 𝘈𝘯 𝘈𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘉𝘰𝘵 𝘛𝘩𝘢𝘵𝘴 𝘈𝘭𝘭𝘰𝘸 𝘠𝘰𝘶 𝘛𝘰 𝘗𝘭𝘢𝘺 𝘝𝘪𝘥𝘦𝘰 & 𝘔𝘶𝘴𝘪𝘤 𝘖𝘯 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘎𝘳𝘰𝘶𝘱 𝘝𝘪𝘥𝘦𝘰 𝘊𝘩𝘢𝘵...</h4>
+<h4 align="center"> ★*RiDER* ★𝘔𝘶𝘴𝘪𝘤 𝘪𝘴 𝘈𝘯 𝘈𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘉𝘰𝘵 𝘛𝘩𝘢𝘵𝘴 𝘈𝘭𝘭𝘰𝘸 𝘠𝘰𝘶 𝘛𝘰 𝘗𝘭𝘢𝘺 𝘝𝘪𝘥𝘦𝘰 & 𝘔𝘶𝘴𝘪𝘤 𝘖𝘯 𝘛𝘦𝘭𝘦𝘨𝘳𝘢𝘮 𝘎𝘳𝘰𝘶𝘱 𝘝𝘪𝘥𝘦𝘰 𝘊𝘩𝘢𝘵...</h4>
 
 <p align="center">
     𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗔𝗡𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦🎑
@@ -24,7 +24,7 @@
 
 <p align="center">
     ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮 𝐕𝐢𝐚 𝐓𝐠 𝐁𝐨𝐭 🚀
-
+deploy 
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=cmFrZXNoeXQvRGV2aWxIYWNrZXJNdXNpYyBSYWtlc2g"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 
