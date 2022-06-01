@@ -29,6 +29,6 @@
 
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [[★*RiDER*★🔥](https://t.me/wifedarloooo) 𝗢𝘄𝗻𝗲𝗿
+- [[★*@Masoom_banda*★🔥](https://t.me/wifedarloooo) 𝗢𝘄𝗻𝗲𝗿
 
-- [★*RiDER* ★🤙](https://t.me/wifedarloooo) 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+- [★*@Masoom_banda* ★🤙](https://t.me/wifedarloooo) 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
